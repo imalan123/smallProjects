@@ -1,11 +1,7 @@
 /** The CargoShip object implements CargoStack, Cargo, and CargoStrength objects to allocate objects on/off the ship
  *
- * Homework 3 CSE214
  *
  * @author Alan Jin
- *      email: alan.jin@stonybrook.edu
- *      Stony Brook ID: 112578370
- *      recitation # : R04
  */
 
 
