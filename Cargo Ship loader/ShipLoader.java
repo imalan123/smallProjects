@@ -1,11 +1,7 @@
 /** The ShipLoader object implements CargoShip, CargoStack, Cargo, and CargoStrength objects for the user to use
  *
- * Homework 3 CSE214
  *
  * @author Alan Jin
- *      email: alan.jin@stonybrook.edu
- *      Stony Brook ID: 112578370
- *      recitation # : R04
  */
 
 import java.util.Scanner;
