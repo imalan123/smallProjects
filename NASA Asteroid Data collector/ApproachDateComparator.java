@@ -1,12 +1,8 @@
 /** ApproachDateComparator implements comparator class for NEarEarthObjects so it can be used to sort
  * objects by approach date values
  *
- * Homework 7 CSE214
  *
  * @author Alan Jin
- *      email: alan.jin@stonybrook.edu
- *      Stony Brook ID: 112578370
- *      recitation # : R04
  */
 
 public class ApproachDateComparator implements java.util.Comparator<NearEarthObject> {
