@@ -1,0 +1,19 @@
+﻿  LibraryManager.cpp
+C:\Users\alanj\OneDrive\Desktop\ESE 224\project\projecttestv3\projecttestv3\Teacher.h(9,1): error C2504: 'Reader': base class undefined
+C:\Users\alanj\OneDrive\Desktop\ESE 224\project\projecttestv3\projecttestv3\LibraryManager.cpp(85,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alanj\OneDrive\Desktop\ESE 224\project\projecttestv3\projecttestv3\LibraryManager.cpp(115,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alanj\OneDrive\Desktop\ESE 224\project\projecttestv3\projecttestv3\LibraryManager.cpp(116,13): error C2039: 'getUser': is not a member of 'Teacher'
+C:\Users\alanj\OneDrive\Desktop\ESE 224\project\projecttestv3\projecttestv3\Teacher.h(8): message : see declaration of 'Teacher'
+C:\Users\alanj\OneDrive\Desktop\ESE 224\project\projecttestv3\projecttestv3\LibraryManager.cpp(116,39): error C2039: 'getPass': is not a member of 'Teacher'
+C:\Users\alanj\OneDrive\Desktop\ESE 224\project\projecttestv3\projecttestv3\Teacher.h(8): message : see declaration of 'Teacher'
+C:\Users\alanj\OneDrive\Desktop\ESE 224\project\projecttestv3\projecttestv3\LibraryManager.cpp(116,67): error C2039: 'getUser': is not a member of 'Teacher'
+C:\Users\alanj\OneDrive\Desktop\ESE 224\project\projecttestv3\projecttestv3\Teacher.h(8): message : see declaration of 'Teacher'
+C:\Users\alanj\OneDrive\Desktop\ESE 224\project\projecttestv3\projecttestv3\LibraryManager.cpp(145,20): warning C4018: '<': signed/unsigned mismatch
+  Reader.cpp
+C:\Users\alanj\OneDrive\Desktop\ESE 224\project\projecttestv3\projecttestv3\Student.h(9,1): error C2504: 'Reader': base class undefined
+C:\Users\alanj\OneDrive\Desktop\ESE 224\project\projecttestv3\projecttestv3\Teacher.h(9,1): error C2504: 'Reader': base class undefined
+  Student.cpp
+C:\Users\alanj\OneDrive\Desktop\ESE 224\project\projecttestv3\projecttestv3\Teacher.h(9,1): error C2504: 'Reader': base class undefined
+  Teacher.cpp
+C:\Users\alanj\OneDrive\Desktop\ESE 224\project\projecttestv3\projecttestv3\Student.h(9,1): error C2504: 'Reader': base class undefined
+  Generating Code...
