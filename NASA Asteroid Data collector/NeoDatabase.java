@@ -1,12 +1,8 @@
 /** NeoDatabase object is used to store NearEarthObject as well as freely change its contents which can be controlled in
  * NeoViewer
  *
- * Homework 7 CSE214
  *
  * @author Alan Jin
- *      email: alan.jin@stonybrook.edu
- *      Stony Brook ID: 112578370
- *      recitation # : R04
  */
 
 
