@@ -1,12 +1,8 @@
 /** NeoViewer is used to change NeoDatabase contents according to user inputs
  *
  *
- * Homework 7 CSE214
  *
  * @author Alan Jin
- *      email: alan.jin@stonybrook.edu
- *      Stony Brook ID: 112578370
- *      recitation # : R04
  */
 
 import org.apache.commons.net.nntp.NewGroupsOrNewsQuery;
